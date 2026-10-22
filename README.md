@@ -2,7 +2,7 @@
 
 ### [Edge Markdown Saver](https://github.com/minagylabs/EdgeMarkdownSaver)
 1-Click Microsoft Edge Extension for Saving Math (LaTeX/TeX), Diagrams (Mermaid), Tables & Figures as GitHub-Flavored Markdown (`.md`).
-**Highlights**
+# **Highlights**
 * Windows Native 'Save As' Dialog
 * LaTeX & KaTeX normalization
 * Mermaid SVG reconstruction
@@ -11,7 +11,7 @@
 
 #### [SuperMuteWindows](https://github.com/minagylabs/SuperMuteWindows)
 A zero-fuss companion utility to silence Samsung Galaxy camera shutter sounds without root or persistent background daemons.
-**Compatibility**
+# **Compatibility**
 Supports Galaxy S/Z/Note/A series running One UI 1.0 through One UI 8.5 / 9+ (Android 7 ~ 16+).
 
 ### Connect & Support
