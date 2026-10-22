@@ -5,7 +5,6 @@
         <img src="https://raw.githubusercontent.com/minagylabs/EdgeMarkdownSaver/main/logo/minagy_monogram.png" alt="Minagy Labs Logo" width="140" height="140" />
     </picture>
 </p>
-
 <h1 align="center">Minagy Labs</h>
 
 <p align="center">
