@@ -32,9 +32,13 @@ A zero-fuss companion utility to silence Samsung Galaxy camera shutter sounds wi
 ### **Compatibility**
 Supports Galaxy S/Z/Note/A series running One UI 1.0 through One UI 8.5 / 9+ (Android 7 ~ 16+).
 
+---
+
 ## Connect & Support
 * **GitHub**: https://github.com/minagylabs
 * **Instagram**: [@minagylabs](https://www.instagram.com/minagylabs/)
 * **Support (KR)**: [크티 (CTEE)](https://ctee.kr/place/minagy)
 * **Support (Global)**: [Buy Me a Coffee](https://buymeacoffee.com/minagylabs)
 * **Contact**: `minagylabs@gmail.com`
+
+<p align="center"><sub>Copyright © 2026 <b>Minagy Labs</b>. All rights reserved.</sub></p>
